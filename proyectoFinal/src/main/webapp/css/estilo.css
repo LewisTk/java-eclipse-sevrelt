@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+#formulario{
+	margin-top: 7%;
+	margin-left: 15%;
+	width: 40%;
+}
+
+#formulario>h1{
+		text-align: center;
+}
